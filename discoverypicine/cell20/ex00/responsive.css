@@ -1,0 +1,9 @@
+.flex-parent{
+    display: flex;
+}
+.box{
+    border: 1px solid black;
+    width: 50%;
+    height: 100px;
+    padding: 10px;
+}
